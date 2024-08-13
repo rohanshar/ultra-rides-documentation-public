@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User on Goldydocs</title>
+    <link>https://example.docsy.dev/tags/user/</link>
+    <description>Recent content in User on Goldydocs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://example.docsy.dev/tags/user/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organiser</title>
+      <link>https://example.docsy.dev/docs/organiser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.docsy.dev/docs/organiser/</guid>
+      <description>This page provides an overview to help users and organizers get started with Ultra Rides. Follow the links below to access detailed instructions tailored to your role.&#xA;Getting Started for Users If you&amp;rsquo;re here to explore cycling routes, participate in events, or connect with fellow cyclists, head over to the User Guide for detailed instructions on:&#xA;Setting Up Your Profile: How to create and customize your user profile. Joining Events: Step-by-step instructions to sign up and participate in cycling events.</description>
+    </item>
+    <item>
+      <title>Rider</title>
+      <link>https://example.docsy.dev/docs/rider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.docsy.dev/docs/rider/</guid>
+      <description>This page provides an overview to help users and organizers get started with Ultra Rides. Follow the links below to access detailed instructions tailored to your role.&#xA;Getting Started for Users If you&amp;rsquo;re here to explore cycling routes, participate in events, or connect with fellow cyclists, head over to the User Guide for detailed instructions on:&#xA;Setting Up Your Profile: How to create and customize your user profile. Joining Events: Step-by-step instructions to sign up and participate in cycling events.</description>
+    </item>
+  </channel>
+</rss>
